@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samir Chauhan</h1>
-<h3 align="center">A passionate Web Developer</h3>
+
+![](https://komarev.com/ghpvc/?username=samir200039&style=for-the-badge)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Web+Developer;I+am+Passionate+to+learn+new+things;)](https://git.io/typing-svg)
 
 <img llgin="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samir200039&label=Profile%20views&color=0e75b6&style=flat" alt="samir200039" /> </p>
+
 
 - 🔭 I’m currently working on **Full stack project**
 
@@ -18,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samir-chauhan-b85673205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-chauhan-b85673205" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samirchauhan2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samirchauhan2021" height="30" width="40" /></a>
+<a href="https://twitter.com/sam__2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam__2023" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +30,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samir200039&show_icons=true&locale=en&layout=compact" alt="samir200039" /></p>
 
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/samirchauhan2021)](https://leetcode.com/samirchauhan2021)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samir200039&show_icons=true&locale=en" alt="samir200039" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samir200039&" alt="samir200039" /></p>
+
